@@ -11,8 +11,8 @@ The user wants to preserve Claude quota. Hand the work to Codex with
 ## With an argument: one shot
 
 Run it and relay the output **as it comes back**. Do not re-analyse,
-re-verify, or add commentary — the entire point is to spend as few of your
-own tokens as possible.
+re-verify, or add commentary. The entire point is to spend as few of your own
+tokens as possible.
 
 ```
 ./codex-task.sh --read-only "<argument>"   # inspection / research

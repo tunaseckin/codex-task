@@ -1,8 +1,8 @@
 # codex-task
 
-> **Written entirely by AI.** Every line in this repository — the script, the
-> skills, this README, the commit messages — was written by Claude (Anthropic's
-> Claude Code) during a working session. A human owns the account, chose to
+> **Written entirely by AI.** Every line in this repository was written by
+> Claude (Anthropic's Claude Code) during a working session: the script, the
+> skills, this README, the commit messages. A human owns the account, chose to
 > publish it, and lived through the incident described below, but wrote none
 > of it. Read it the way you would read any code you did not write yourself.
 
@@ -82,8 +82,8 @@ Claude; it just stops doing the expensive part itself. If you want to spend
 no Claude quota at all, run `codex-task.sh` from your terminal directly.
 
 Codex does not see your Claude conversation. Every call starts cold. Delegate
-searching, reading and mechanical edits — not decisions that depend on
-context you built up over an hour.
+searching, reading and mechanical edits, not decisions that depend on context
+you built up over an hour.
 
 ## License
 
