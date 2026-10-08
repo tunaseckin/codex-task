@@ -1,5 +1,11 @@
 # codex-task
 
+> **Written entirely by AI.** Every line in this repository — the script, the
+> skills, this README, the commit messages — was written by Claude (Anthropic's
+> Claude Code) during a working session. A human owns the account, chose to
+> publish it, and lived through the incident described below, but wrote none
+> of it. Read it the way you would read any code you did not write yourself.
+
 Hand work from Claude Code to OpenAI Codex, without letting it near your
 working tree.
 
@@ -78,21 +84,6 @@ no Claude quota at all, run `codex-task.sh` from your terminal directly.
 Codex does not see your Claude conversation. Every call starts cold. Delegate
 searching, reading and mechanical edits — not decisions that depend on
 context you built up over an hour.
-
-## Turkish / Türkçe
-
-Claude kotan dolup GPT aboneliğin boş duruyorsa işe yarar. `codex-task.sh`
-işi Codex'e verir, ama Codex ayrı bir git worktree'sinde çalışır: senin
-çalışma ağacına dokunamaz, iş bitince yamayı gösterir, almak ayrı bir karar.
-
-Bu depo bir kazadan doğdu: bir ajan kendi düzenlemesini geri almak isterken
-iki haftalık eski bir arşivden dosya geri yazdı ve doğrulanmış dört güvenlik
-düzeltmesiyle bütün bir moderasyon katmanını sildi. Proje git altında
-değildi.
-
-`/gpt` seni GPT'ye çevirmez; tur yine Claude'dan geçer, yalnızca ağır işi
-başkası yapar. Hiç Claude kotası harcamak istemiyorsan betiği doğrudan
-terminalden çalıştır.
 
 ## License
 
